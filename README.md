@@ -1,3 +1,4 @@
+## ⚠️ Educational Use Only
 # Technology 1
 
 A brief, one-sentence description of what this project does.
